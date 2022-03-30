@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "corpus-generator"
+version = "0.1.0"
+description = ""
+authors = ["Cliff Wulfman <cwulfman@princeton.edu>"]
+readme = "README.md"
+packages = [{include = "corpus_generator"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+lxml = "^4.8.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+black = "^21.12b0"
+pylint = "^2.12.2"
+flake8 = "^4.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

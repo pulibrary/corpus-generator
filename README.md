@@ -1,2 +1,1 @@
-# corpus-generator
-tools for generating NL corpora
+Tools for creating NL corpora from METS/ALTO resources

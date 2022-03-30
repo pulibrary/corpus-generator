@@ -1,0 +1,2195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/METS/" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd" xmlns:MODS="http://www.loc.gov/mods/v3" xmlns:mix="http://www.loc.gov/mix/" xmlns:xlink="http://www.w3.org/TR/xlink" TYPE="Newspaper" LABEL="The Daily Princetonian no. 61 06.05.1968">
+  <metsHdr CREATEDATE="2010-10-11T11:36:44" LASTMODDATE="2010-10-11T11:36:44" xmlns="http://www.loc.gov/METS/">
+    <agent ROLE="CREATOR" TYPE="OTHER" OTHERTYPE="SOFTWARE">
+      <name>CCS docWORKS/METAe Version 6.4-1</name>
+      <note>docWORKS-ID: 129424</note>
+    </agent>
+  </metsHdr>
+  <dmdSec ID="ISSUE_DESCRIPTION">
+    <mdWrap MDTYPE="MODS">
+      <xmlData>
+        <mods:mods xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/TR/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd" ID="MODSMD_ISSUE1_TI1">
+          <mods:titleInfo ID="MODSMD_PRINT_TI1">
+            <mods:nonSort>The</mods:nonSort>
+            <mods:title>Daily Princetonian</mods:title>
+          </mods:titleInfo>
+          <mods:part type="issue">
+            <mods:text>Vol. XCII, No. 61 (May 06, 1968)</mods:text>
+            <mods:date encoding="iso8601">1968-05-06</mods:date>
+            <mods:detail type="volume" level="1">
+              <mods:number>92</mods:number>
+            </mods:detail>
+            <mods:detail type="number" level="2">
+              <mods:number>61</mods:number>
+            </mods:detail>
+          </mods:part>
+          <mods:relatedItem type="host">
+            <mods:titleInfo>
+              <mods:nonSort>The</mods:nonSort>
+              <mods:title>Daily Princetonian</mods:title>
+            </mods:titleInfo>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE1">
+            <mods:titleInfo>
+              <mods:title>Faculty to consider IDA, student power potentials</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>1</mods:start>
+                <mods:end>1</mods:end>
+                <mods:list>p. [1]</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE2">
+            <mods:titleInfo>
+              <mods:title>Committee investigates study of African history, culture, life</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>1</mods:start>
+                <mods:end>1</mods:end>
+                <mods:list>p. [1]</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE3">
+            <mods:titleInfo>
+              <mods:title>Students publish business quarterly</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>1</mods:start>
+                <mods:end>1</mods:end>
+                <mods:list>p. [1]</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE4">
+            <mods:titleInfo>
+              <mods:title>Coed swimming</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>1</mods:start>
+                <mods:end>1</mods:end>
+                <mods:list>p. [1]</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE5">
+            <mods:titleInfo>
+              <mods:title>Campus begins to cool off Columbia College suspends classes</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>1</mods:start>
+                <mods:end>1</mods:end>
+                <mods:list>p. [1]</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE6">
+            <mods:titleInfo>
+              <mods:title>$4.5 million in gifts boost drive</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>1</mods:start>
+                <mods:end>1</mods:end>
+                <mods:list>p. [1]</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE7">
+            <mods:titleInfo>
+              <mods:title>FIRST FEMALE PROFESSOR Sociologist Keller promoted</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>1</mods:start>
+                <mods:end>1</mods:end>
+                <mods:list>p. [1]</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE8">
+            <mods:titleInfo>
+              <mods:title>Trenton Tutorial to operate school in expanded effort</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>1</mods:start>
+                <mods:end>1</mods:end>
+                <mods:list>p. [1]</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE9">
+            <mods:titleInfo>
+              <mods:title>Publication schedule</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>1</mods:start>
+                <mods:end>1</mods:end>
+                <mods:list>p. [1]</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE10">
+            <mods:titleInfo>
+              <mods:title>The Daily PRINCETONIAN</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>2</mods:start>
+                <mods:end>2</mods:end>
+                <mods:list>p. 2</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE11">
+            <mods:titleInfo>
+              <mods:title>SDS or UGA?</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>2</mods:start>
+                <mods:end>2</mods:end>
+                <mods:list>p. 2</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE12">
+            <mods:titleInfo>
+              <mods:title>The faculty meeting</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>2</mods:start>
+                <mods:end>2</mods:end>
+                <mods:list>p. 2</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE13">
+            <mods:titleInfo>
+              <mods:title>THEATRE INTIME 'Once Upon a Mattress'</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>2</mods:start>
+                <mods:end>2</mods:end>
+                <mods:list>p. 2</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE14">
+            <mods:titleInfo>
+              <mods:title>headline highlights... From the Associated Press</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>3</mods:start>
+                <mods:end>3</mods:end>
+                <mods:list>p. 3</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE15">
+            <mods:titleInfo>
+              <mods:title>Princeton to present D. F. Hyde award to noted Walpole scholar, W. S. Lewis</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>3</mods:start>
+                <mods:end>3</mods:end>
+                <mods:list>p. 3</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE16">
+            <mods:titleInfo>
+              <mods:title>Petition criticizes 'Prince' editorials</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>3</mods:start>
+                <mods:end>3</mods:end>
+                <mods:list>p. 3</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE17">
+            <mods:titleInfo>
+              <mods:title>—NEWS BRIEF—</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>3</mods:start>
+                <mods:end>3</mods:end>
+                <mods:list>p. 3</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE18">
+            <mods:titleInfo>
+              <mods:title>B. C.</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>3</mods:start>
+                <mods:end>3</mods:end>
+                <mods:list>p. 3</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE19">
+            <mods:titleInfo>
+              <mods:title>Studdiford forecasts marks Grade-predicting: Can it be done?</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>4</mods:start>
+                <mods:end>4</mods:end>
+                <mods:list>p. 4</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE20">
+            <mods:titleInfo>
+              <mods:title>Oarsmen fall behind Crimson in sluggish lightweight contest</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>6</mods:start>
+                <mods:end>6</mods:end>
+                <mods:list>p. 6</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE21">
+            <mods:titleInfo>
+              <mods:title>OFFICIAL NOTICES</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>7</mods:start>
+                <mods:end>7</mods:end>
+                <mods:list>p. 7</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE22">
+            <mods:titleInfo>
+              <mods:title>UNIVERSITY NOTICES</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>7</mods:start>
+                <mods:end>7</mods:end>
+                <mods:list>p. 7</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE23">
+            <mods:titleInfo>
+              <mods:title>ATHLETIC NOTICES</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>7</mods:start>
+                <mods:end>7</mods:end>
+                <mods:list>p. 7</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE24">
+            <mods:titleInfo>
+              <mods:title>Trackmen trample lackadaisical Lions in 108-40 stampede</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>6</mods:start>
+                <mods:end>8</mods:end>
+                <mods:list>p. 6-8</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE25">
+            <mods:titleInfo>
+              <mods:title>Netmen win in doubles to overpower Yale, 6-3</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>6</mods:start>
+                <mods:end>8</mods:end>
+                <mods:list>p. 6-8</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE26">
+            <mods:titleInfo>
+              <mods:title>Golfers upset Elis, 6-1, wreck 38-match skein</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>6</mods:start>
+                <mods:end>8</mods:end>
+                <mods:list>p. 6-8</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE27">
+            <mods:titleInfo>
+              <mods:title>Stickmen rally late to tie Yale, 8-8 Final period goals shock Elis</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>6</mods:start>
+                <mods:end>8</mods:end>
+                <mods:list>p. 6-8</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE28">
+            <mods:titleInfo>
+              <mods:title>Eights stroke past Cornell, Yale</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>8</mods:start>
+                <mods:end>8</mods:end>
+                <mods:list>p. 8</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE29">
+            <mods:titleInfo>
+              <mods:title>SPORTS RESULTS</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>8</mods:start>
+                <mods:end>8</mods:end>
+                <mods:list>p. 8</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+          <mods:relatedItem type="constituent" ID="MODSMD_ARTICLE30">
+            <mods:titleInfo>
+              <mods:title>Lethargic Bengal batters succumb to Indians, 8-2</mods:title>
+            </mods:titleInfo>
+            <mods:part type="article">
+              <mods:extent unit="pages">
+                <mods:start>7</mods:start>
+                <mods:end>8</mods:end>
+                <mods:list>p. 7-8</mods:list>
+              </mods:extent>
+            </mods:part>
+          </mods:relatedItem>
+        </mods:mods>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="IMGPARAM00001" xmlns="http://www.loc.gov/METS/">
+    <techMD ID="IMGPARAM00001TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+        <xmlData>
+          <mix:mix xmlns:mix="http://www.loc.gov/mix/">
+            <mix:BasicImageParameters>
+              <mix:Format>
+                <mix:MIMEType>image/jp2</mix:MIMEType>
+                <mix:ByteOrder>little-endian</mix:ByteOrder>
+                <mix:Compression>
+                  <mix:CompressionScheme>34712</mix:CompressionScheme>
+                </mix:Compression>
+                <mix:PhotometricInterpretation>
+                  <mix:ColorSpace>1</mix:ColorSpace>
+                </mix:PhotometricInterpretation>
+              </mix:Format>
+              <mix:File>
+                <mix:ImageIdentifier imageIdentifierLocation="//wks3/OUT/Princetonian/1968/05/06_01/Princetonian-IMG">Princetonian_1968-05-06_v92_n061_0001.jp2</mix:ImageIdentifier>
+                <mix:FileSize>2039218</mix:FileSize>
+                <mix:Orientation>1</mix:Orientation>
+                <mix:DisplayOrientation>1</mix:DisplayOrientation>
+              </mix:File>
+            </mix:BasicImageParameters>
+            <mix:ImageCreation>
+              <mix:SourceType>Newspaper</mix:SourceType>
+              <mix:SourceID>
+              </mix:SourceID>
+              <mix:ImageProducer>
+              </mix:ImageProducer>
+              <mix:Host>
+                <mix:HostComputer>DWP5</mix:HostComputer>
+                <mix:OperatingSystem>windows</mix:OperatingSystem>
+                <mix:OSVersion>5.2 Service Pack 2</mix:OSVersion>
+              </mix:Host>
+              <mix:DeviceSource>
+              </mix:DeviceSource>
+              <mix:ScanningSystemCapture>
+                <mix:ScanningSystemHardware>
+                  <mix:ScannerManufacturer>
+                  </mix:ScannerManufacturer>
+                  <mix:ScannerModel>
+                    <mix:ScannerModelName>
+                    </mix:ScannerModelName>
+                    <mix:ScannerModelNumber>
+                    </mix:ScannerModelNumber>
+                    <mix:ScannerModelSerialNo>
+                    </mix:ScannerModelSerialNo>
+                  </mix:ScannerModel>
+                </mix:ScanningSystemHardware>
+                <mix:ScanningSystemSoftware>
+                  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+                  <mix:ScanningSoftwareVersionNo>
+                  </mix:ScanningSoftwareVersionNo>
+                </mix:ScanningSystemSoftware>
+                <mix:ScannerCaptureSettings>
+                  <mix:PixelSize>0.0846666</mix:PixelSize>
+                  <mix:PhysScanResolution>
+                    <mix:XphysScanResolution>300</mix:XphysScanResolution>
+                    <mix:YphysScanResolution>300</mix:YphysScanResolution>
+                  </mix:PhysScanResolution>
+                </mix:ScannerCaptureSettings>
+              </mix:ScanningSystemCapture>
+            </mix:ImageCreation>
+            <mix:ImagingPerformanceAssessment>
+              <mix:SpatialMetrics>
+                <mix:ImageWidth>3268</mix:ImageWidth>
+                <mix:ImageLength>4992</mix:ImageLength>
+              </mix:SpatialMetrics>
+              <mix:Energetics>
+                <mix:BitsPerSample>8</mix:BitsPerSample>
+                <mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+              </mix:Energetics>
+            </mix:ImagingPerformanceAssessment>
+            <mix:ChangeHistory>
+              <mix:ImageProcessing>
+                <mix:SourceData>./Princetonian/1968/05/06_01/Princetonian_1968-05-06_v92_n061_001.tif</mix:SourceData>
+              </mix:ImageProcessing>
+            </mix:ChangeHistory>
+          </mix:mix>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00002" xmlns="http://www.loc.gov/METS/">
+    <techMD ID="IMGPARAM00002TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+        <xmlData>
+          <mix:mix xmlns:mix="http://www.loc.gov/mix/">
+            <mix:BasicImageParameters>
+              <mix:Format>
+                <mix:MIMEType>image/jp2</mix:MIMEType>
+                <mix:ByteOrder>little-endian</mix:ByteOrder>
+                <mix:Compression>
+                  <mix:CompressionScheme>34712</mix:CompressionScheme>
+                </mix:Compression>
+                <mix:PhotometricInterpretation>
+                  <mix:ColorSpace>1</mix:ColorSpace>
+                </mix:PhotometricInterpretation>
+              </mix:Format>
+              <mix:File>
+                <mix:ImageIdentifier imageIdentifierLocation="//wks3/OUT/Princetonian/1968/05/06_01/Princetonian-IMG">Princetonian_1968-05-06_v92_n061_0002.jp2</mix:ImageIdentifier>
+                <mix:FileSize>2031240</mix:FileSize>
+                <mix:Orientation>1</mix:Orientation>
+                <mix:DisplayOrientation>1</mix:DisplayOrientation>
+              </mix:File>
+            </mix:BasicImageParameters>
+            <mix:ImageCreation>
+              <mix:SourceType>Newspaper</mix:SourceType>
+              <mix:SourceID>
+              </mix:SourceID>
+              <mix:ImageProducer>
+              </mix:ImageProducer>
+              <mix:Host>
+                <mix:HostComputer>DWP5</mix:HostComputer>
+                <mix:OperatingSystem>windows</mix:OperatingSystem>
+                <mix:OSVersion>5.2 Service Pack 2</mix:OSVersion>
+              </mix:Host>
+              <mix:DeviceSource>
+              </mix:DeviceSource>
+              <mix:ScanningSystemCapture>
+                <mix:ScanningSystemHardware>
+                  <mix:ScannerManufacturer>
+                  </mix:ScannerManufacturer>
+                  <mix:ScannerModel>
+                    <mix:ScannerModelName>
+                    </mix:ScannerModelName>
+                    <mix:ScannerModelNumber>
+                    </mix:ScannerModelNumber>
+                    <mix:ScannerModelSerialNo>
+                    </mix:ScannerModelSerialNo>
+                  </mix:ScannerModel>
+                </mix:ScanningSystemHardware>
+                <mix:ScanningSystemSoftware>
+                  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+                  <mix:ScanningSoftwareVersionNo>
+                  </mix:ScanningSoftwareVersionNo>
+                </mix:ScanningSystemSoftware>
+                <mix:ScannerCaptureSettings>
+                  <mix:PixelSize>0.0846666</mix:PixelSize>
+                  <mix:PhysScanResolution>
+                    <mix:XphysScanResolution>300</mix:XphysScanResolution>
+                    <mix:YphysScanResolution>300</mix:YphysScanResolution>
+                  </mix:PhysScanResolution>
+                </mix:ScannerCaptureSettings>
+              </mix:ScanningSystemCapture>
+            </mix:ImageCreation>
+            <mix:ImagingPerformanceAssessment>
+              <mix:SpatialMetrics>
+                <mix:ImageWidth>3259</mix:ImageWidth>
+                <mix:ImageLength>4986</mix:ImageLength>
+              </mix:SpatialMetrics>
+              <mix:Energetics>
+                <mix:BitsPerSample>8</mix:BitsPerSample>
+                <mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+              </mix:Energetics>
+            </mix:ImagingPerformanceAssessment>
+            <mix:ChangeHistory>
+              <mix:ImageProcessing>
+                <mix:SourceData>./Princetonian/1968/05/06_01/Princetonian_1968-05-06_v92_n061_002.tif</mix:SourceData>
+              </mix:ImageProcessing>
+            </mix:ChangeHistory>
+          </mix:mix>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00003" xmlns="http://www.loc.gov/METS/">
+    <techMD ID="IMGPARAM00003TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+        <xmlData>
+          <mix:mix xmlns:mix="http://www.loc.gov/mix/">
+            <mix:BasicImageParameters>
+              <mix:Format>
+                <mix:MIMEType>image/jp2</mix:MIMEType>
+                <mix:ByteOrder>little-endian</mix:ByteOrder>
+                <mix:Compression>
+                  <mix:CompressionScheme>34712</mix:CompressionScheme>
+                </mix:Compression>
+                <mix:PhotometricInterpretation>
+                  <mix:ColorSpace>1</mix:ColorSpace>
+                </mix:PhotometricInterpretation>
+              </mix:Format>
+              <mix:File>
+                <mix:ImageIdentifier imageIdentifierLocation="//wks3/OUT/Princetonian/1968/05/06_01/Princetonian-IMG">Princetonian_1968-05-06_v92_n061_0003.jp2</mix:ImageIdentifier>
+                <mix:FileSize>2023197</mix:FileSize>
+                <mix:Orientation>1</mix:Orientation>
+                <mix:DisplayOrientation>1</mix:DisplayOrientation>
+              </mix:File>
+            </mix:BasicImageParameters>
+            <mix:ImageCreation>
+              <mix:SourceType>Newspaper</mix:SourceType>
+              <mix:SourceID>
+              </mix:SourceID>
+              <mix:ImageProducer>
+              </mix:ImageProducer>
+              <mix:Host>
+                <mix:HostComputer>DWP5</mix:HostComputer>
+                <mix:OperatingSystem>windows</mix:OperatingSystem>
+                <mix:OSVersion>5.2 Service Pack 2</mix:OSVersion>
+              </mix:Host>
+              <mix:DeviceSource>
+              </mix:DeviceSource>
+              <mix:ScanningSystemCapture>
+                <mix:ScanningSystemHardware>
+                  <mix:ScannerManufacturer>
+                  </mix:ScannerManufacturer>
+                  <mix:ScannerModel>
+                    <mix:ScannerModelName>
+                    </mix:ScannerModelName>
+                    <mix:ScannerModelNumber>
+                    </mix:ScannerModelNumber>
+                    <mix:ScannerModelSerialNo>
+                    </mix:ScannerModelSerialNo>
+                  </mix:ScannerModel>
+                </mix:ScanningSystemHardware>
+                <mix:ScanningSystemSoftware>
+                  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+                  <mix:ScanningSoftwareVersionNo>
+                  </mix:ScanningSoftwareVersionNo>
+                </mix:ScanningSystemSoftware>
+                <mix:ScannerCaptureSettings>
+                  <mix:PixelSize>0.0846666</mix:PixelSize>
+                  <mix:PhysScanResolution>
+                    <mix:XphysScanResolution>300</mix:XphysScanResolution>
+                    <mix:YphysScanResolution>300</mix:YphysScanResolution>
+                  </mix:PhysScanResolution>
+                </mix:ScannerCaptureSettings>
+              </mix:ScanningSystemCapture>
+            </mix:ImageCreation>
+            <mix:ImagingPerformanceAssessment>
+              <mix:SpatialMetrics>
+                <mix:ImageWidth>3250</mix:ImageWidth>
+                <mix:ImageLength>4980</mix:ImageLength>
+              </mix:SpatialMetrics>
+              <mix:Energetics>
+                <mix:BitsPerSample>8</mix:BitsPerSample>
+                <mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+              </mix:Energetics>
+            </mix:ImagingPerformanceAssessment>
+            <mix:ChangeHistory>
+              <mix:ImageProcessing>
+                <mix:SourceData>./Princetonian/1968/05/06_01/Princetonian_1968-05-06_v92_n061_003.tif</mix:SourceData>
+              </mix:ImageProcessing>
+            </mix:ChangeHistory>
+          </mix:mix>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00004" xmlns="http://www.loc.gov/METS/">
+    <techMD ID="IMGPARAM00004TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+        <xmlData>
+          <mix:mix xmlns:mix="http://www.loc.gov/mix/">
+            <mix:BasicImageParameters>
+              <mix:Format>
+                <mix:MIMEType>image/jp2</mix:MIMEType>
+                <mix:ByteOrder>little-endian</mix:ByteOrder>
+                <mix:Compression>
+                  <mix:CompressionScheme>34712</mix:CompressionScheme>
+                </mix:Compression>
+                <mix:PhotometricInterpretation>
+                  <mix:ColorSpace>1</mix:ColorSpace>
+                </mix:PhotometricInterpretation>
+              </mix:Format>
+              <mix:File>
+                <mix:ImageIdentifier imageIdentifierLocation="//wks3/OUT/Princetonian/1968/05/06_01/Princetonian-IMG">Princetonian_1968-05-06_v92_n061_0004.jp2</mix:ImageIdentifier>
+                <mix:FileSize>2055168</mix:FileSize>
+                <mix:Orientation>1</mix:Orientation>
+                <mix:DisplayOrientation>1</mix:DisplayOrientation>
+              </mix:File>
+            </mix:BasicImageParameters>
+            <mix:ImageCreation>
+              <mix:SourceType>Newspaper</mix:SourceType>
+              <mix:SourceID>
+              </mix:SourceID>
+              <mix:ImageProducer>
+              </mix:ImageProducer>
+              <mix:Host>
+                <mix:HostComputer>DWP5</mix:HostComputer>
+                <mix:OperatingSystem>windows</mix:OperatingSystem>
+                <mix:OSVersion>5.2 Service Pack 2</mix:OSVersion>
+              </mix:Host>
+              <mix:DeviceSource>
+              </mix:DeviceSource>
+              <mix:ScanningSystemCapture>
+                <mix:ScanningSystemHardware>
+                  <mix:ScannerManufacturer>
+                  </mix:ScannerManufacturer>
+                  <mix:ScannerModel>
+                    <mix:ScannerModelName>
+                    </mix:ScannerModelName>
+                    <mix:ScannerModelNumber>
+                    </mix:ScannerModelNumber>
+                    <mix:ScannerModelSerialNo>
+                    </mix:ScannerModelSerialNo>
+                  </mix:ScannerModel>
+                </mix:ScanningSystemHardware>
+                <mix:ScanningSystemSoftware>
+                  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+                  <mix:ScanningSoftwareVersionNo>
+                  </mix:ScanningSoftwareVersionNo>
+                </mix:ScanningSystemSoftware>
+                <mix:ScannerCaptureSettings>
+                  <mix:PixelSize>0.0846666</mix:PixelSize>
+                  <mix:PhysScanResolution>
+                    <mix:XphysScanResolution>300</mix:XphysScanResolution>
+                    <mix:YphysScanResolution>300</mix:YphysScanResolution>
+                  </mix:PhysScanResolution>
+                </mix:ScannerCaptureSettings>
+              </mix:ScanningSystemCapture>
+            </mix:ImageCreation>
+            <mix:ImagingPerformanceAssessment>
+              <mix:SpatialMetrics>
+                <mix:ImageWidth>3286</mix:ImageWidth>
+                <mix:ImageLength>5004</mix:ImageLength>
+              </mix:SpatialMetrics>
+              <mix:Energetics>
+                <mix:BitsPerSample>8</mix:BitsPerSample>
+                <mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+              </mix:Energetics>
+            </mix:ImagingPerformanceAssessment>
+            <mix:ChangeHistory>
+              <mix:ImageProcessing>
+                <mix:SourceData>./Princetonian/1968/05/06_01/Princetonian_1968-05-06_v92_n061_004.tif</mix:SourceData>
+              </mix:ImageProcessing>
+            </mix:ChangeHistory>
+          </mix:mix>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00005" xmlns="http://www.loc.gov/METS/">
+    <techMD ID="IMGPARAM00005TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+        <xmlData>
+          <mix:mix xmlns:mix="http://www.loc.gov/mix/">
+            <mix:BasicImageParameters>
+              <mix:Format>
+                <mix:MIMEType>image/jp2</mix:MIMEType>
+                <mix:ByteOrder>little-endian</mix:ByteOrder>
+                <mix:Compression>
+                  <mix:CompressionScheme>34712</mix:CompressionScheme>
+                </mix:Compression>
+                <mix:PhotometricInterpretation>
+                  <mix:ColorSpace>1</mix:ColorSpace>
+                </mix:PhotometricInterpretation>
+              </mix:Format>
+              <mix:File>
+                <mix:ImageIdentifier imageIdentifierLocation="//wks3/OUT/Princetonian/1968/05/06_01/Princetonian-IMG">Princetonian_1968-05-06_v92_n061_0005.jp2</mix:ImageIdentifier>
+                <mix:FileSize>2023195</mix:FileSize>
+                <mix:Orientation>1</mix:Orientation>
+                <mix:DisplayOrientation>1</mix:DisplayOrientation>
+              </mix:File>
+            </mix:BasicImageParameters>
+            <mix:ImageCreation>
+              <mix:SourceType>Newspaper</mix:SourceType>
+              <mix:SourceID>
+              </mix:SourceID>
+              <mix:ImageProducer>
+              </mix:ImageProducer>
+              <mix:Host>
+                <mix:HostComputer>DWP5</mix:HostComputer>
+                <mix:OperatingSystem>windows</mix:OperatingSystem>
+                <mix:OSVersion>5.2 Service Pack 2</mix:OSVersion>
+              </mix:Host>
+              <mix:DeviceSource>
+              </mix:DeviceSource>
+              <mix:ScanningSystemCapture>
+                <mix:ScanningSystemHardware>
+                  <mix:ScannerManufacturer>
+                  </mix:ScannerManufacturer>
+                  <mix:ScannerModel>
+                    <mix:ScannerModelName>
+                    </mix:ScannerModelName>
+                    <mix:ScannerModelNumber>
+                    </mix:ScannerModelNumber>
+                    <mix:ScannerModelSerialNo>
+                    </mix:ScannerModelSerialNo>
+                  </mix:ScannerModel>
+                </mix:ScanningSystemHardware>
+                <mix:ScanningSystemSoftware>
+                  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+                  <mix:ScanningSoftwareVersionNo>
+                  </mix:ScanningSoftwareVersionNo>
+                </mix:ScanningSystemSoftware>
+                <mix:ScannerCaptureSettings>
+                  <mix:PixelSize>0.0846666</mix:PixelSize>
+                  <mix:PhysScanResolution>
+                    <mix:XphysScanResolution>300</mix:XphysScanResolution>
+                    <mix:YphysScanResolution>300</mix:YphysScanResolution>
+                  </mix:PhysScanResolution>
+                </mix:ScannerCaptureSettings>
+              </mix:ScanningSystemCapture>
+            </mix:ImageCreation>
+            <mix:ImagingPerformanceAssessment>
+              <mix:SpatialMetrics>
+                <mix:ImageWidth>3250</mix:ImageWidth>
+                <mix:ImageLength>4980</mix:ImageLength>
+              </mix:SpatialMetrics>
+              <mix:Energetics>
+                <mix:BitsPerSample>8</mix:BitsPerSample>
+                <mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+              </mix:Energetics>
+            </mix:ImagingPerformanceAssessment>
+            <mix:ChangeHistory>
+              <mix:ImageProcessing>
+                <mix:SourceData>./Princetonian/1968/05/06_01/Princetonian_1968-05-06_v92_n061_005.tif</mix:SourceData>
+              </mix:ImageProcessing>
+            </mix:ChangeHistory>
+          </mix:mix>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00006" xmlns="http://www.loc.gov/METS/">
+    <techMD ID="IMGPARAM00006TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+        <xmlData>
+          <mix:mix xmlns:mix="http://www.loc.gov/mix/">
+            <mix:BasicImageParameters>
+              <mix:Format>
+                <mix:MIMEType>image/jp2</mix:MIMEType>
+                <mix:ByteOrder>little-endian</mix:ByteOrder>
+                <mix:Compression>
+                  <mix:CompressionScheme>34712</mix:CompressionScheme>
+                </mix:Compression>
+                <mix:PhotometricInterpretation>
+                  <mix:ColorSpace>1</mix:ColorSpace>
+                </mix:PhotometricInterpretation>
+              </mix:Format>
+              <mix:File>
+                <mix:ImageIdentifier imageIdentifierLocation="//wks3/OUT/Princetonian/1968/05/06_01/Princetonian-IMG">Princetonian_1968-05-06_v92_n061_0006.jp2</mix:ImageIdentifier>
+                <mix:FileSize>2046726</mix:FileSize>
+                <mix:Orientation>1</mix:Orientation>
+                <mix:DisplayOrientation>1</mix:DisplayOrientation>
+              </mix:File>
+            </mix:BasicImageParameters>
+            <mix:ImageCreation>
+              <mix:SourceType>Newspaper</mix:SourceType>
+              <mix:SourceID>
+              </mix:SourceID>
+              <mix:ImageProducer>
+              </mix:ImageProducer>
+              <mix:Host>
+                <mix:HostComputer>DWP5</mix:HostComputer>
+                <mix:OperatingSystem>windows</mix:OperatingSystem>
+                <mix:OSVersion>5.2 Service Pack 2</mix:OSVersion>
+              </mix:Host>
+              <mix:DeviceSource>
+              </mix:DeviceSource>
+              <mix:ScanningSystemCapture>
+                <mix:ScanningSystemHardware>
+                  <mix:ScannerManufacturer>
+                  </mix:ScannerManufacturer>
+                  <mix:ScannerModel>
+                    <mix:ScannerModelName>
+                    </mix:ScannerModelName>
+                    <mix:ScannerModelNumber>
+                    </mix:ScannerModelNumber>
+                    <mix:ScannerModelSerialNo>
+                    </mix:ScannerModelSerialNo>
+                  </mix:ScannerModel>
+                </mix:ScanningSystemHardware>
+                <mix:ScanningSystemSoftware>
+                  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+                  <mix:ScanningSoftwareVersionNo>
+                  </mix:ScanningSoftwareVersionNo>
+                </mix:ScanningSystemSoftware>
+                <mix:ScannerCaptureSettings>
+                  <mix:PixelSize>0.0846666</mix:PixelSize>
+                  <mix:PhysScanResolution>
+                    <mix:XphysScanResolution>300</mix:XphysScanResolution>
+                    <mix:YphysScanResolution>300</mix:YphysScanResolution>
+                  </mix:PhysScanResolution>
+                </mix:ScannerCaptureSettings>
+              </mix:ScanningSystemCapture>
+            </mix:ImageCreation>
+            <mix:ImagingPerformanceAssessment>
+              <mix:SpatialMetrics>
+                <mix:ImageWidth>3277</mix:ImageWidth>
+                <mix:ImageLength>4998</mix:ImageLength>
+              </mix:SpatialMetrics>
+              <mix:Energetics>
+                <mix:BitsPerSample>8</mix:BitsPerSample>
+                <mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+              </mix:Energetics>
+            </mix:ImagingPerformanceAssessment>
+            <mix:ChangeHistory>
+              <mix:ImageProcessing>
+                <mix:SourceData>./Princetonian/1968/05/06_01/Princetonian_1968-05-06_v92_n061_006.tif</mix:SourceData>
+              </mix:ImageProcessing>
+            </mix:ChangeHistory>
+          </mix:mix>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00007" xmlns="http://www.loc.gov/METS/">
+    <techMD ID="IMGPARAM00007TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+        <xmlData>
+          <mix:mix xmlns:mix="http://www.loc.gov/mix/">
+            <mix:BasicImageParameters>
+              <mix:Format>
+                <mix:MIMEType>image/jp2</mix:MIMEType>
+                <mix:ByteOrder>little-endian</mix:ByteOrder>
+                <mix:Compression>
+                  <mix:CompressionScheme>34712</mix:CompressionScheme>
+                </mix:Compression>
+                <mix:PhotometricInterpretation>
+                  <mix:ColorSpace>1</mix:ColorSpace>
+                </mix:PhotometricInterpretation>
+              </mix:Format>
+              <mix:File>
+                <mix:ImageIdentifier imageIdentifierLocation="//wks3/OUT/Princetonian/1968/05/06_01/Princetonian-IMG">Princetonian_1968-05-06_v92_n061_0007.jp2</mix:ImageIdentifier>
+                <mix:FileSize>2039330</mix:FileSize>
+                <mix:Orientation>1</mix:Orientation>
+                <mix:DisplayOrientation>1</mix:DisplayOrientation>
+              </mix:File>
+            </mix:BasicImageParameters>
+            <mix:ImageCreation>
+              <mix:SourceType>Newspaper</mix:SourceType>
+              <mix:SourceID>
+              </mix:SourceID>
+              <mix:ImageProducer>
+              </mix:ImageProducer>
+              <mix:Host>
+                <mix:HostComputer>DWP5</mix:HostComputer>
+                <mix:OperatingSystem>windows</mix:OperatingSystem>
+                <mix:OSVersion>5.2 Service Pack 2</mix:OSVersion>
+              </mix:Host>
+              <mix:DeviceSource>
+              </mix:DeviceSource>
+              <mix:ScanningSystemCapture>
+                <mix:ScanningSystemHardware>
+                  <mix:ScannerManufacturer>
+                  </mix:ScannerManufacturer>
+                  <mix:ScannerModel>
+                    <mix:ScannerModelName>
+                    </mix:ScannerModelName>
+                    <mix:ScannerModelNumber>
+                    </mix:ScannerModelNumber>
+                    <mix:ScannerModelSerialNo>
+                    </mix:ScannerModelSerialNo>
+                  </mix:ScannerModel>
+                </mix:ScanningSystemHardware>
+                <mix:ScanningSystemSoftware>
+                  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+                  <mix:ScanningSoftwareVersionNo>
+                  </mix:ScanningSoftwareVersionNo>
+                </mix:ScanningSystemSoftware>
+                <mix:ScannerCaptureSettings>
+                  <mix:PixelSize>0.0846666</mix:PixelSize>
+                  <mix:PhysScanResolution>
+                    <mix:XphysScanResolution>300</mix:XphysScanResolution>
+                    <mix:YphysScanResolution>300</mix:YphysScanResolution>
+                  </mix:PhysScanResolution>
+                </mix:ScannerCaptureSettings>
+              </mix:ScanningSystemCapture>
+            </mix:ImageCreation>
+            <mix:ImagingPerformanceAssessment>
+              <mix:SpatialMetrics>
+                <mix:ImageWidth>3268</mix:ImageWidth>
+                <mix:ImageLength>4992</mix:ImageLength>
+              </mix:SpatialMetrics>
+              <mix:Energetics>
+                <mix:BitsPerSample>8</mix:BitsPerSample>
+                <mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+              </mix:Energetics>
+            </mix:ImagingPerformanceAssessment>
+            <mix:ChangeHistory>
+              <mix:ImageProcessing>
+                <mix:SourceData>./Princetonian/1968/05/06_01/Princetonian_1968-05-06_v92_n061_007.tif</mix:SourceData>
+              </mix:ImageProcessing>
+            </mix:ChangeHistory>
+          </mix:mix>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <amdSec ID="IMGPARAM00008" xmlns="http://www.loc.gov/METS/">
+    <techMD ID="IMGPARAM00008TECHMD">
+      <mdWrap MDTYPE="NISOIMG">
+        <xmlData>
+          <mix:mix xmlns:mix="http://www.loc.gov/mix/">
+            <mix:BasicImageParameters>
+              <mix:Format>
+                <mix:MIMEType>image/jp2</mix:MIMEType>
+                <mix:ByteOrder>little-endian</mix:ByteOrder>
+                <mix:Compression>
+                  <mix:CompressionScheme>34712</mix:CompressionScheme>
+                </mix:Compression>
+                <mix:PhotometricInterpretation>
+                  <mix:ColorSpace>1</mix:ColorSpace>
+                </mix:PhotometricInterpretation>
+              </mix:Format>
+              <mix:File>
+                <mix:ImageIdentifier imageIdentifierLocation="//wks3/OUT/Princetonian/1968/05/06_01/Princetonian-IMG">Princetonian_1968-05-06_v92_n061_0008.jp2</mix:ImageIdentifier>
+                <mix:FileSize>2047415</mix:FileSize>
+                <mix:Orientation>1</mix:Orientation>
+                <mix:DisplayOrientation>1</mix:DisplayOrientation>
+              </mix:File>
+            </mix:BasicImageParameters>
+            <mix:ImageCreation>
+              <mix:SourceType>Newspaper</mix:SourceType>
+              <mix:SourceID>
+              </mix:SourceID>
+              <mix:ImageProducer>
+              </mix:ImageProducer>
+              <mix:Host>
+                <mix:HostComputer>DWP5</mix:HostComputer>
+                <mix:OperatingSystem>windows</mix:OperatingSystem>
+                <mix:OSVersion>5.2 Service Pack 2</mix:OSVersion>
+              </mix:Host>
+              <mix:DeviceSource>
+              </mix:DeviceSource>
+              <mix:ScanningSystemCapture>
+                <mix:ScanningSystemHardware>
+                  <mix:ScannerManufacturer>
+                  </mix:ScannerManufacturer>
+                  <mix:ScannerModel>
+                    <mix:ScannerModelName>
+                    </mix:ScannerModelName>
+                    <mix:ScannerModelNumber>
+                    </mix:ScannerModelNumber>
+                    <mix:ScannerModelSerialNo>
+                    </mix:ScannerModelSerialNo>
+                  </mix:ScannerModel>
+                </mix:ScanningSystemHardware>
+                <mix:ScanningSystemSoftware>
+                  <mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+                  <mix:ScanningSoftwareVersionNo>
+                  </mix:ScanningSoftwareVersionNo>
+                </mix:ScanningSystemSoftware>
+                <mix:ScannerCaptureSettings>
+                  <mix:PixelSize>0.0846666</mix:PixelSize>
+                  <mix:PhysScanResolution>
+                    <mix:XphysScanResolution>300</mix:XphysScanResolution>
+                    <mix:YphysScanResolution>300</mix:YphysScanResolution>
+                  </mix:PhysScanResolution>
+                </mix:ScannerCaptureSettings>
+              </mix:ScanningSystemCapture>
+            </mix:ImageCreation>
+            <mix:ImagingPerformanceAssessment>
+              <mix:SpatialMetrics>
+                <mix:ImageWidth>3277</mix:ImageWidth>
+                <mix:ImageLength>4998</mix:ImageLength>
+              </mix:SpatialMetrics>
+              <mix:Energetics>
+                <mix:BitsPerSample>8</mix:BitsPerSample>
+                <mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+              </mix:Energetics>
+            </mix:ImagingPerformanceAssessment>
+            <mix:ChangeHistory>
+              <mix:ImageProcessing>
+                <mix:SourceData>./Princetonian/1968/05/06_01/Princetonian_1968-05-06_v92_n061_008.tif</mix:SourceData>
+              </mix:ImageProcessing>
+            </mix:ChangeHistory>
+          </mix:mix>
+        </xmlData>
+      </mdWrap>
+    </techMD>
+  </amdSec>
+  <fileSec xmlns="http://www.loc.gov/METS/">
+    <fileGrp ID="IMGGRP" USE="Images">
+      <file ID="IMG00001" CREATED="2010-10-11T11:31:07" ADMID="IMGPARAM00001" MIMETYPE="image/jp2" SEQ="1" CHECKSUM="72565613c4c0b1576182f74e81b09a41e295251a" CHECKSUMTYPE="SHA-1" SIZE="2039218">
+        <FLocat LOCTYPE="URL" xlink:href="file://./Princetonian-IMG/Princetonian_1968-05-06_v92_n061_0001.jp2" xmlns:xlink="http://www.w3.org/1999/xlink" />
+      </file>
+      <file ID="IMG00002" CREATED="2010-10-11T11:31:34" ADMID="IMGPARAM00002" MIMETYPE="image/jp2" SEQ="2" CHECKSUM="54ad5ac1bc247a6bd8e5a93cdaba4507133a7ab3" CHECKSUMTYPE="SHA-1" SIZE="2031240">
+        <FLocat LOCTYPE="URL" xlink:href="file://./Princetonian-IMG/Princetonian_1968-05-06_v92_n061_0002.jp2" xmlns:xlink="http://www.w3.org/1999/xlink" />
+      </file>
+      <file ID="IMG00003" CREATED="2010-10-11T11:32:17" ADMID="IMGPARAM00003" MIMETYPE="image/jp2" SEQ="3" CHECKSUM="28b580e8e741df70b54fac8f07df8ac0461ba45b" CHECKSUMTYPE="SHA-1" SIZE="2023197">
+        <FLocat LOCTYPE="URL" xlink:href="file://./Princetonian-IMG/Princetonian_1968-05-06_v92_n061_0003.jp2" xmlns:xlink="http://www.w3.org/1999/xlink" />
+      </file>
+      <file ID="IMG00004" CREATED="2010-10-11T11:32:44" ADMID="IMGPARAM00004" MIMETYPE="image/jp2" SEQ="4" CHECKSUM="b4f44c99c057599f7bbad0368d379916c2abffc9" CHECKSUMTYPE="SHA-1" SIZE="2055168">
+        <FLocat LOCTYPE="URL" xlink:href="file://./Princetonian-IMG/Princetonian_1968-05-06_v92_n061_0004.jp2" xmlns:xlink="http://www.w3.org/1999/xlink" />
+      </file>
+      <file ID="IMG00005" CREATED="2010-10-11T11:34:04" ADMID="IMGPARAM00005" MIMETYPE="image/jp2" SEQ="5" CHECKSUM="4bcc4fab54b12de6332fa93e7e4ac05504d16838" CHECKSUMTYPE="SHA-1" SIZE="2023195">
+        <FLocat LOCTYPE="URL" xlink:href="file://./Princetonian-IMG/Princetonian_1968-05-06_v92_n061_0005.jp2" xmlns:xlink="http://www.w3.org/1999/xlink" />
+      </file>
+      <file ID="IMG00006" CREATED="2010-10-11T11:34:40" ADMID="IMGPARAM00006" MIMETYPE="image/jp2" SEQ="6" CHECKSUM="e2781c286e5393cd015c9d8d624d547ee6a4d704" CHECKSUMTYPE="SHA-1" SIZE="2046726">
+        <FLocat LOCTYPE="URL" xlink:href="file://./Princetonian-IMG/Princetonian_1968-05-06_v92_n061_0006.jp2" xmlns:xlink="http://www.w3.org/1999/xlink" />
+      </file>
+      <file ID="IMG00007" CREATED="2010-10-11T11:35:43" ADMID="IMGPARAM00007" MIMETYPE="image/jp2" SEQ="7" CHECKSUM="a46380c099d4e93a125a2345eba7debb8983a7cd" CHECKSUMTYPE="SHA-1" SIZE="2039330">
+        <FLocat LOCTYPE="URL" xlink:href="file://./Princetonian-IMG/Princetonian_1968-05-06_v92_n061_0007.jp2" xmlns:xlink="http://www.w3.org/1999/xlink" />
+      </file>
+      <file ID="IMG00008" CREATED="2010-10-11T11:36:40" ADMID="IMGPARAM00008" MIMETYPE="image/jp2" SEQ="8" CHECKSUM="dc3d58e600207615899343cc738b3c6df64b4a5d" CHECKSUMTYPE="SHA-1" SIZE="2047415">
+        <FLocat LOCTYPE="URL" xlink:href="file://./Princetonian-IMG/Princetonian_1968-05-06_v92_n061_0008.jp2" xmlns:xlink="http://www.w3.org/1999/xlink" />
+      </file>
+    </fileGrp>
+    <fileGrp ID="ALTOGRP" USE="Text">
+      <file ID="ALTO00001" CREATED="2010-10-11T11:36:41" MIMETYPE="text/xml" CHECKSUM="13ce7976798d7a935b146c1ce8f390db4f8e1953" CHECKSUMTYPE="SHA-1" SIZE="409052">
+        <FLocat LOCTYPE="URL" xlink:href="file://./Princetonian-ALTO/Princetonian_1968-05-06_v92_n061_ALTO0001.xml" xmlns:xlink="http://www.w3.org/1999/xlink" />
+      </file>
+      <file ID="ALTO00002" CREATED="2010-10-11T11:36:42" MIMETYPE="text/xml" CHECKSUM="a70ec76a1e6d8c85f5a56226746b3813791fc32d" CHECKSUMTYPE="SHA-1" SIZE="294275">
+        <FLocat LOCTYPE="URL" xlink:href="file://./Princetonian-ALTO/Princetonian_1968-05-06_v92_n061_ALTO0002.xml" xmlns:xlink="http://www.w3.org/1999/xlink" />
+      </file>
+      <file ID="ALTO00003" CREATED="2010-10-11T11:36:42" MIMETYPE="text/xml" CHECKSUM="924f06fa6369784ba09289379b01632c4e6ed91b" CHECKSUMTYPE="SHA-1" SIZE="193316">
+        <FLocat LOCTYPE="URL" xlink:href="file://./Princetonian-ALTO/Princetonian_1968-05-06_v92_n061_ALTO0003.xml" xmlns:xlink="http://www.w3.org/1999/xlink" />
+      </file>
+      <file ID="ALTO00004" CREATED="2010-10-11T11:36:42" MIMETYPE="text/xml" CHECKSUM="248fd265eee4b466af8453dac87458b6d4353102" CHECKSUMTYPE="SHA-1" SIZE="220336">
+        <FLocat LOCTYPE="URL" xlink:href="file://./Princetonian-ALTO/Princetonian_1968-05-06_v92_n061_ALTO0004.xml" xmlns:xlink="http://www.w3.org/1999/xlink" />
+      </file>
+      <file ID="ALTO00005" CREATED="2010-10-11T11:36:43" MIMETYPE="text/xml" CHECKSUM="981332b00387932f51950e19e8fb95fb41725955" CHECKSUMTYPE="SHA-1" SIZE="180872">
+        <FLocat LOCTYPE="URL" xlink:href="file://./Princetonian-ALTO/Princetonian_1968-05-06_v92_n061_ALTO0005.xml" xmlns:xlink="http://www.w3.org/1999/xlink" />
+      </file>
+      <file ID="ALTO00006" CREATED="2010-10-11T11:36:43" MIMETYPE="text/xml" CHECKSUM="82cacd2abba047bf98d7865756e62ed5ab05f49a" CHECKSUMTYPE="SHA-1" SIZE="256366">
+        <FLocat LOCTYPE="URL" xlink:href="file://./Princetonian-ALTO/Princetonian_1968-05-06_v92_n061_ALTO0006.xml" xmlns:xlink="http://www.w3.org/1999/xlink" />
+      </file>
+      <file ID="ALTO00007" CREATED="2010-10-11T11:36:43" MIMETYPE="text/xml" CHECKSUM="eb73bab91632c174472b936f510db2cef3b10f71" CHECKSUMTYPE="SHA-1" SIZE="254311">
+        <FLocat LOCTYPE="URL" xlink:href="file://./Princetonian-ALTO/Princetonian_1968-05-06_v92_n061_ALTO0007.xml" xmlns:xlink="http://www.w3.org/1999/xlink" />
+      </file>
+      <file ID="ALTO00008" CREATED="2010-10-11T11:36:44" MIMETYPE="text/xml" CHECKSUM="5b0a509d6941344bbbbfadabb1a2cde796a7b139" CHECKSUMTYPE="SHA-1" SIZE="342024">
+        <FLocat LOCTYPE="URL" xlink:href="file://./Princetonian-ALTO/Princetonian_1968-05-06_v92_n061_ALTO0008.xml" xmlns:xlink="http://www.w3.org/1999/xlink" />
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap LABEL="Physical Structure" TYPE="PHYSICAL" xmlns="http://www.loc.gov/METS/">
+    <div ID="DIVP1" LABEL="The Daily Princetonian" TYPE="Newspaper" DMDID="MODSMD_PRINT MODSMD_ELEC">
+      <div ID="DIVP2" ORDER="1" ORDERLABEL="1" TYPE="PAGE">
+        <fptr>
+          <par>
+            <area FILEID="IMG00001" />
+            <area FILEID="ALTO00001" BETYPE="IDREF" BEGIN="P1" />
+          </par>
+        </fptr>
+      </div>
+      <div ID="DIVP3" ORDER="2" ORDERLABEL="2" LABEL="2" TYPE="PAGE">
+        <fptr>
+          <par>
+            <area FILEID="IMG00002" />
+            <area FILEID="ALTO00002" BETYPE="IDREF" BEGIN="P2" />
+          </par>
+        </fptr>
+      </div>
+      <div ID="DIVP4" ORDER="3" ORDERLABEL="3" LABEL="3" TYPE="PAGE">
+        <fptr>
+          <par>
+            <area FILEID="IMG00003" />
+            <area FILEID="ALTO00003" BETYPE="IDREF" BEGIN="P3" />
+          </par>
+        </fptr>
+      </div>
+      <div ID="DIVP5" ORDER="4" ORDERLABEL="4" LABEL="4" TYPE="PAGE">
+        <fptr>
+          <par>
+            <area FILEID="IMG00004" />
+            <area FILEID="ALTO00004" BETYPE="IDREF" BEGIN="P4" />
+          </par>
+        </fptr>
+      </div>
+      <div ID="DIVP6" ORDER="5" ORDERLABEL="5" LABEL="5" TYPE="PAGE">
+        <fptr>
+          <par>
+            <area FILEID="IMG00005" />
+            <area FILEID="ALTO00005" BETYPE="IDREF" BEGIN="P5" />
+          </par>
+        </fptr>
+      </div>
+      <div ID="DIVP7" ORDER="6" ORDERLABEL="6" LABEL="6" TYPE="PAGE">
+        <fptr>
+          <par>
+            <area FILEID="IMG00006" />
+            <area FILEID="ALTO00006" BETYPE="IDREF" BEGIN="P6" />
+          </par>
+        </fptr>
+      </div>
+      <div ID="DIVP8" ORDER="7" ORDERLABEL="7" LABEL="7" TYPE="PAGE">
+        <fptr>
+          <par>
+            <area FILEID="IMG00007" />
+            <area FILEID="ALTO00007" BETYPE="IDREF" BEGIN="P7" />
+          </par>
+        </fptr>
+      </div>
+      <div ID="DIVP9" ORDER="8" ORDERLABEL="8" LABEL="8" TYPE="PAGE">
+        <fptr>
+          <par>
+            <area FILEID="IMG00008" />
+            <area FILEID="ALTO00008" BETYPE="IDREF" BEGIN="P8" />
+          </par>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+  <structMap LABEL="Logical Structure" TYPE="LOGICAL" xmlns="http://www.loc.gov/METS/">
+    <div ID="DIVL1" TYPE="Newspaper" LABEL="The Daily Princetonian no. 61 06.05.1968">
+      <div ID="DIVL2" TYPE="VOLUME" DMDID="MODSMD_PRINT MODSMD_ELEC" LABEL="The Daily Princetonian no. 61 06.05.1968">
+        <div ID="DIVL3" TYPE="ISSUE" DMDID="MODSMD_ISSUE1" LABEL="The Daily Princetonian no. 61 06.05.1968">
+          <div ID="DIVL4" TYPE="TITLE_SECTION">
+            <div ID="DIVL5" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT1" LABEL="Untitled">
+              <div ID="DIVL6" TYPE="IMAGE">
+                <fptr>
+                  <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_CB00001" />
+                </fptr>
+              </div>
+            </div>
+            <div ID="DIVL7" TYPE="HEADLINE" ORDER="2">
+              <fptr>
+                <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00001" />
+              </fptr>
+            </div>
+            <div ID="DIVL8" TYPE="TEXTBLOCK" ORDER="3">
+              <fptr>
+                <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00002" />
+              </fptr>
+            </div>
+            <div ID="DIVL9" TYPE="TEXTBLOCK" ORDER="4">
+              <fptr>
+                <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00003" />
+              </fptr>
+            </div>
+            <div ID="DIVL10" TYPE="TEXTBLOCK" ORDER="5">
+              <fptr>
+                <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00004" />
+              </fptr>
+            </div>
+            <div ID="DIVL11" TYPE="TEXTBLOCK" ORDER="6">
+              <fptr>
+                <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00005" />
+              </fptr>
+            </div>
+          </div>
+          <div ID="DIVL12" TYPE="CONTENT">
+            <div ID="DIVL13" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE1" LABEL="Faculty to consider IDA, student power potentials">
+              <div ID="DIVL14" TYPE="HEADING">
+                <div ID="DIVL15" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00006" />
+                  </fptr>
+                </div>
+                <div ID="DIVL16" TYPE="AUTHOR">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00007" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL17" TYPE="BODY">
+                <div ID="DIVL18" TYPE="BODY_CONTENT">
+                  <div ID="DIVL19" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL20" TYPE="TEXT">
+                      <fptr>
+                        <seq>
+                          <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00008" />
+                          <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00009" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL21" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE2" LABEL="Committee investigates study of African history, culture, life">
+              <div ID="DIVL22" TYPE="HEADING">
+                <div ID="DIVL23" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00010" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL24" TYPE="BODY">
+                <div ID="DIVL25" TYPE="BODY_CONTENT">
+                  <div ID="DIVL26" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL27" TYPE="TEXT">
+                      <fptr>
+                        <seq>
+                          <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00011" />
+                          <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00012" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL28" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE3" LABEL="Students publish business quarterly">
+              <div ID="DIVL29" TYPE="HEADING">
+                <div ID="DIVL30" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00013" />
+                  </fptr>
+                </div>
+                <div ID="DIVL31" TYPE="AUTHOR">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00014" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL32" TYPE="BODY">
+                <div ID="DIVL33" TYPE="BODY_CONTENT">
+                  <div ID="DIVL34" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL35" TYPE="TEXT">
+                      <fptr>
+                        <seq>
+                          <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00015" />
+                          <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00016" />
+                          <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00017" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL36" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE4" LABEL="Coed swimming">
+              <div ID="DIVL37" TYPE="HEADING">
+                <div ID="DIVL38" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00018" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL39" TYPE="BODY">
+                <div ID="DIVL40" TYPE="BODY_CONTENT">
+                  <div ID="DIVL41" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL42" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00019" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL43" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE5" LABEL="Campus begins to cool off Columbia College suspends classes">
+              <div ID="DIVL44" TYPE="HEADING">
+                <div ID="DIVL45" TYPE="TITLE">
+                  <fptr>
+                    <seq>
+                      <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00020" />
+                      <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00021" />
+                    </seq>
+                  </fptr>
+                </div>
+                <div ID="DIVL46" TYPE="AUTHOR">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00022" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL47" TYPE="BODY">
+                <div ID="DIVL48" TYPE="BODY_CONTENT">
+                  <div ID="DIVL49" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL50" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00023" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL51" TYPE="PARAGRAPH" ORDER="2">
+                    <div ID="DIVL52" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00024" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL53" TYPE="PARAGRAPH" ORDER="3">
+                    <div ID="DIVL54" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00025" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL55" TYPE="PARAGRAPH" ORDER="4">
+                    <div ID="DIVL56" TYPE="TEXT">
+                      <fptr>
+                        <seq>
+                          <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00026" />
+                          <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00027" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL57" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE6" LABEL="$4.5 million in gifts boost drive">
+              <div ID="DIVL58" TYPE="HEADING">
+                <div ID="DIVL59" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00028" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL60" TYPE="BODY">
+                <div ID="DIVL61" TYPE="BODY_CONTENT">
+                  <div ID="DIVL62" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL63" TYPE="TEXT">
+                      <fptr>
+                        <seq>
+                          <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00029" />
+                          <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00030" />
+                          <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00031" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL64" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE7" LABEL="FIRST FEMALE PROFESSOR Sociologist Keller promoted">
+              <div ID="DIVL65" TYPE="HEADING">
+                <div ID="DIVL66" TYPE="TITLE">
+                  <fptr>
+                    <seq>
+                      <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00032" />
+                      <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00033" />
+                    </seq>
+                  </fptr>
+                </div>
+                <div ID="DIVL67" TYPE="AUTHOR">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00034" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL68" TYPE="BODY">
+                <div ID="DIVL69" TYPE="BODY_CONTENT">
+                  <div ID="DIVL70" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL71" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00035" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+                <div ID="DIVL72" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT2" LABEL="Suzanne Keller Princeton's first woman professor">
+                  <div ID="DIVL73" TYPE="IMAGE">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_CB00001" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL74" TYPE="CAPTION">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00036" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL75" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE8" LABEL="Trenton Tutorial to operate school in expanded effort">
+              <div ID="DIVL76" TYPE="HEADING">
+                <div ID="DIVL77" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00037" />
+                  </fptr>
+                </div>
+                <div ID="DIVL78" TYPE="AUTHOR">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00038" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL79" TYPE="BODY">
+                <div ID="DIVL80" TYPE="BODY_CONTENT">
+                  <div ID="DIVL81" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL82" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00039" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL83" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE9" LABEL="Publication schedule">
+              <div ID="DIVL84" TYPE="HEADING">
+                <div ID="DIVL85" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00040" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL86" TYPE="BODY">
+                <div ID="DIVL87" TYPE="BODY_CONTENT">
+                  <div ID="DIVL88" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL89" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00001" BEGIN="P1_TB00041" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL90" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE10" LABEL="The Daily PRINCETONIAN">
+              <div ID="DIVL91" TYPE="HEADING">
+                <div ID="DIVL92" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00001" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL93" TYPE="BODY">
+                <div ID="DIVL94" TYPE="BODY_CONTENT">
+                  <div ID="DIVL95" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL96" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00002" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL97" TYPE="PARAGRAPH" ORDER="2">
+                    <div ID="DIVL98" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00003" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL99" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE11" LABEL="SDS or UGA?">
+              <div ID="DIVL100" TYPE="HEADING">
+                <div ID="DIVL101" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00004" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL102" TYPE="BODY">
+                <div ID="DIVL103" TYPE="BODY_CONTENT">
+                  <div ID="DIVL104" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL105" TYPE="TEXT">
+                      <fptr>
+                        <seq>
+                          <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00005" />
+                          <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00006" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL106" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE12" LABEL="The faculty meeting">
+              <div ID="DIVL107" TYPE="HEADING">
+                <div ID="DIVL108" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00007" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL109" TYPE="BODY">
+                <div ID="DIVL110" TYPE="BODY_CONTENT">
+                  <div ID="DIVL111" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL112" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00008" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL113" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE13" LABEL="THEATRE INTIME 'Once Upon a Mattress'">
+              <div ID="DIVL114" TYPE="HEADING">
+                <div ID="DIVL115" TYPE="TITLE">
+                  <fptr>
+                    <seq>
+                      <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00009" />
+                      <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00010" />
+                    </seq>
+                  </fptr>
+                </div>
+                <div ID="DIVL116" TYPE="AUTHOR">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00011" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL117" TYPE="BODY">
+                <div ID="DIVL118" TYPE="BODY_CONTENT">
+                  <div ID="DIVL119" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL120" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00012" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL121" TYPE="PARAGRAPH" ORDER="2">
+                    <div ID="DIVL122" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_TB00013" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+                <div ID="DIVL123" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT3" LABEL="Untitled">
+                  <div ID="DIVL124" TYPE="IMAGE">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_CB00001" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL125" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE14" LABEL="headline highlights... From the Associated Press">
+              <div ID="DIVL126" TYPE="HEADING">
+                <div ID="DIVL127" TYPE="TITLE">
+                  <fptr>
+                    <seq>
+                      <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00001" />
+                      <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00002" />
+                    </seq>
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL128" TYPE="BODY">
+                <div ID="DIVL129" TYPE="BODY_CONTENT">
+                  <div ID="DIVL130" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL131" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00003" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL132" TYPE="PARAGRAPH" ORDER="2">
+                    <div ID="DIVL133" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00004" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL134" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE15" LABEL="Princeton to present D. F. Hyde award to noted Walpole scholar, W. S. Lewis">
+              <div ID="DIVL135" TYPE="HEADING">
+                <div ID="DIVL136" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00005" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL137" TYPE="BODY">
+                <div ID="DIVL138" TYPE="BODY_CONTENT">
+                  <div ID="DIVL139" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL140" TYPE="TEXT">
+                      <fptr>
+                        <seq>
+                          <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00006" />
+                          <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00007" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL141" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE16" LABEL="Petition criticizes 'Prince' editorials">
+              <div ID="DIVL142" TYPE="HEADING">
+                <div ID="DIVL143" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00008" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL144" TYPE="BODY">
+                <div ID="DIVL145" TYPE="BODY_CONTENT">
+                  <div ID="DIVL146" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL147" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00009" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL148" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE17" LABEL="—NEWS BRIEF—">
+              <div ID="DIVL149" TYPE="HEADING">
+                <div ID="DIVL150" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00010" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL151" TYPE="BODY">
+                <div ID="DIVL152" TYPE="BODY_CONTENT">
+                  <div ID="DIVL153" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL154" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00011" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL155" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE18" LABEL="B. C.">
+              <div ID="DIVL156" TYPE="HEADING">
+                <div ID="DIVL157" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00012" />
+                  </fptr>
+                </div>
+                <div ID="DIVL158" TYPE="AUTHOR">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_TB00013" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL159" TYPE="BODY">
+                <div ID="DIVL160" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT4" LABEL="Untitled">
+                  <div ID="DIVL161" TYPE="IMAGE">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_CB00001" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL162" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE19" LABEL="Studdiford forecasts marks Grade-predicting: Can it be done?">
+              <div ID="DIVL163" TYPE="HEADING">
+                <div ID="DIVL164" TYPE="TITLE">
+                  <fptr>
+                    <seq>
+                      <area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00001" />
+                      <area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00002" />
+                    </seq>
+                  </fptr>
+                </div>
+                <div ID="DIVL165" TYPE="AUTHOR">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00003" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL166" TYPE="BODY">
+                <div ID="DIVL167" TYPE="BODY_CONTENT">
+                  <div ID="DIVL168" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL169" TYPE="TEXT">
+                      <fptr>
+                        <seq>
+                          <area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00004" />
+                          <area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00005" />
+                          <area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_TB00006" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL170" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE20" LABEL="Oarsmen fall behind Crimson in sluggish lightweight contest">
+              <div ID="DIVL171" TYPE="HEADING">
+                <div ID="DIVL172" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00001" />
+                  </fptr>
+                </div>
+                <div ID="DIVL173" TYPE="AUTHOR">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00002" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL174" TYPE="BODY">
+                <div ID="DIVL175" TYPE="BODY_CONTENT">
+                  <div ID="DIVL176" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL177" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00003" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL178" TYPE="PARAGRAPH" ORDER="2">
+                    <div ID="DIVL179" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00004" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL180" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE21" LABEL="OFFICIAL NOTICES">
+              <div ID="DIVL181" TYPE="HEADING">
+                <div ID="DIVL182" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00001" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL183" TYPE="BODY">
+                <div ID="DIVL184" TYPE="BODY_CONTENT">
+                  <div ID="DIVL185" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL186" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00002" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL187" TYPE="PARAGRAPH" ORDER="2">
+                    <div ID="DIVL188" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00003" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL189" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE22" LABEL="UNIVERSITY NOTICES">
+              <div ID="DIVL190" TYPE="HEADING">
+                <div ID="DIVL191" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00004" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL192" TYPE="BODY">
+                <div ID="DIVL193" TYPE="BODY_CONTENT">
+                  <div ID="DIVL194" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL195" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00005" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL196" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE23" LABEL="ATHLETIC NOTICES">
+              <div ID="DIVL197" TYPE="HEADING">
+                <div ID="DIVL198" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00006" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL199" TYPE="BODY">
+                <div ID="DIVL200" TYPE="BODY_CONTENT">
+                  <div ID="DIVL201" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL202" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00007" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL203" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE24" LABEL="Trackmen trample lackadaisical Lions in 108-40 stampede">
+              <div ID="DIVL204" TYPE="HEADING">
+                <div ID="DIVL205" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00001" />
+                  </fptr>
+                </div>
+                <div ID="DIVL206" TYPE="AUTHOR">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00002" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL207" TYPE="BODY">
+                <div ID="DIVL208" TYPE="BODY_CONTENT">
+                  <div ID="DIVL209" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL210" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00003" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL211" TYPE="PARAGRAPH" ORDER="2">
+                    <div ID="DIVL212" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00005" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL213" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE25" LABEL="Netmen win in doubles to overpower Yale, 6-3">
+              <div ID="DIVL214" TYPE="HEADING">
+                <div ID="DIVL215" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00004" />
+                  </fptr>
+                </div>
+                <div ID="DIVL216" TYPE="AUTHOR">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00005" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL217" TYPE="BODY">
+                <div ID="DIVL218" TYPE="BODY_CONTENT">
+                  <div ID="DIVL219" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL220" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00006" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL221" TYPE="PARAGRAPH" ORDER="2">
+                    <div ID="DIVL222" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00007" />
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL223" TYPE="PARAGRAPH" ORDER="3">
+                    <div ID="DIVL224" TYPE="TEXT">
+                      <fptr>
+                        <seq>
+                          <area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00006" />
+                          <area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00007" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+                <div ID="DIVL225" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT5" LABEL="Photo by Bob Pariser TENNIS CAPTAIN LES BUCK delivers a forehand smash during the thud set of his match Saturday. Buck won both the set and the match.">
+                  <div ID="DIVL226" TYPE="IMAGE">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_CB00002" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL227" TYPE="CAPTION">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00008" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL228" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE26" LABEL="Golfers upset Elis, 6-1, wreck 38-match skein">
+              <div ID="DIVL229" TYPE="HEADING">
+                <div ID="DIVL230" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00009" />
+                  </fptr>
+                </div>
+                <div ID="DIVL231" TYPE="AUTHOR">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00010" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL232" TYPE="BODY">
+                <div ID="DIVL233" TYPE="BODY_CONTENT">
+                  <div ID="DIVL234" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL235" TYPE="TEXT">
+                      <fptr>
+                        <seq>
+                          <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00011" />
+                          <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00012" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL236" TYPE="PARAGRAPH" ORDER="2">
+                    <div ID="DIVL237" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00008" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL238" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE27" LABEL="Stickmen rally late to tie Yale, 8-8 Final period goals shock Elis">
+              <div ID="DIVL239" TYPE="HEADING">
+                <div ID="DIVL240" TYPE="TITLE">
+                  <fptr>
+                    <seq>
+                      <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00013" />
+                      <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00014" />
+                    </seq>
+                  </fptr>
+                </div>
+                <div ID="DIVL241" TYPE="AUTHOR">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00015" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL242" TYPE="BODY">
+                <div ID="DIVL243" TYPE="BODY_CONTENT">
+                  <div ID="DIVL244" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL245" TYPE="TEXT">
+                      <fptr>
+                        <seq>
+                          <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00016" />
+                          <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00017" />
+                          <area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_TB00009" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+                <div ID="DIVL246" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT6" LABEL="PRINCETON'S JIMMY KARANIK battles for the ball near the Yale goal with the Bulldogs' Geoff Woglom during the final period Saturday. ,">
+                  <div ID="DIVL247" TYPE="IMAGE">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_CB00003" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL248" TYPE="CAPTION">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00018" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL249" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE28" LABEL="Eights stroke past Cornell, Yale">
+              <div ID="DIVL250" TYPE="HEADING">
+                <div ID="DIVL251" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00019" />
+                  </fptr>
+                </div>
+                <div ID="DIVL252" TYPE="AUTHOR">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00020" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL253" TYPE="BODY">
+                <div ID="DIVL254" TYPE="BODY_CONTENT">
+                  <div ID="DIVL255" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL256" TYPE="TEXT">
+                      <fptr>
+                        <seq>
+                          <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00021" />
+                          <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00022" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+                <div ID="DIVL257" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT7" LABEL="Pete Sparhawk">
+                  <div ID="DIVL258" TYPE="IMAGE">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_CB00004" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL259" TYPE="CAPTION">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00023" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL260" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE29" LABEL="SPORTS RESULTS">
+              <div ID="DIVL261" TYPE="HEADING">
+                <div ID="DIVL262" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00024" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL263" TYPE="BODY">
+                <div ID="DIVL264" TYPE="BODY_CONTENT">
+                  <div ID="DIVL265" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL266" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00025" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL267" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE30" LABEL="Lethargic Bengal batters succumb to Indians, 8-2">
+              <div ID="DIVL268" TYPE="HEADING">
+                <div ID="DIVL269" TYPE="TITLE">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00026" />
+                  </fptr>
+                </div>
+                <div ID="DIVL270" TYPE="AUTHOR">
+                  <fptr>
+                    <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00027" />
+                  </fptr>
+                </div>
+              </div>
+              <div ID="DIVL271" TYPE="BODY">
+                <div ID="DIVL272" TYPE="BODY_CONTENT">
+                  <div ID="DIVL273" TYPE="PARAGRAPH" ORDER="1">
+                    <div ID="DIVL274" TYPE="TEXT">
+                      <fptr>
+                        <seq>
+                          <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00028" />
+                          <area BETYPE="IDREF" FILEID="ALTO00008" BEGIN="P8_TB00029" />
+                        </seq>
+                      </fptr>
+                    </div>
+                  </div>
+                  <div ID="DIVL275" TYPE="PARAGRAPH" ORDER="2">
+                    <div ID="DIVL276" TYPE="TEXT">
+                      <fptr>
+                        <area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_TB00008" />
+                      </fptr>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div ID="DIVL277" TYPE="SECTION" DMDID="MODSMD_SECTION1">
+              <div ID="DIVL278" TYPE="BODY">
+                <div ID="DIVL279" TYPE="BODY_CONTENT">
+                  <div ID="DIVL280" TYPE="ADVERTISEMENT" ORDER="1" LABEL="Adv. 1 Page 2">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00002" BEGIN="P2_CB00002" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL281" TYPE="ADVERTISEMENT" ORDER="2" LABEL="Adv. 2 Page 3">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_CB00002" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL282" TYPE="ADVERTISEMENT" ORDER="3" LABEL="Adv. 3 Page 3">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00003" BEGIN="P3_CB00003" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL283" TYPE="ADVERTISEMENT" ORDER="4" LABEL="Adv. 4 Page 4">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_CB00001" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL284" TYPE="ADVERTISEMENT" ORDER="5" LABEL="Adv. 5 Page 4">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_CB00002" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL285" TYPE="ADVERTISEMENT" ORDER="6" LABEL="Adv. 6 Page 4">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_CB00003" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL286" TYPE="ADVERTISEMENT" ORDER="7" LABEL="Adv. 7 Page 4">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00004" BEGIN="P4_CB00004" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL287" TYPE="ADVERTISEMENT" ORDER="8" LABEL="Adv. 8 Page 5">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00005" BEGIN="P5_CB00001" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL288" TYPE="ADVERTISEMENT" ORDER="9" LABEL="Adv. 9 Page 6">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_CB00001" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL289" TYPE="ADVERTISEMENT" ORDER="10" LABEL="Adv. 10 Page 6">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_CB00002" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL290" TYPE="ADVERTISEMENT" ORDER="11" LABEL="Adv. 11 Page 6">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00006" BEGIN="P6_CB00003" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL291" TYPE="ADVERTISEMENT" ORDER="12" LABEL="Adv. 12 Page 7">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_CB00001" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL292" TYPE="ADVERTISEMENT" ORDER="13" LABEL="Adv. 13 Page 7">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_CB00002" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL293" TYPE="ADVERTISEMENT" ORDER="14" LABEL="Adv. 14 Page 7">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_CB00003" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL294" TYPE="ADVERTISEMENT" ORDER="15" LABEL="Adv. 15 Page 7">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_CB00004" />
+                    </fptr>
+                  </div>
+                  <div ID="DIVL295" TYPE="ADVERTISEMENT" ORDER="16" LABEL="Adv. 16 Page 7">
+                    <fptr>
+                      <area BETYPE="IDREF" FILEID="ALTO00007" BEGIN="P7_CB00005" />
+                    </fptr>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </structMap>
+</mets>
