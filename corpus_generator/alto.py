@@ -52,11 +52,7 @@ def text_line(line_element):
             if (child.get('SUBS_TYPE') == "HypPart1"):
                 line += child.get("SUBS_CONTENT")
             elif (child.get('SUBS_TYPE') == "HypPart2"):
-                 pass
+                pass
             else:
-                 line += child.get("CONTENT")
+                line += child.get("CONTENT")
     return line
-
-alto_path = "/Users/cwulfman/repos/github/pulibrary/corpus-generator/tests/data/06_01/Princetonian-ALTO/Princetonian_1968-05-06_v92_n061_ALTO0001.xml"
-
-a = Alto(alto_path)
