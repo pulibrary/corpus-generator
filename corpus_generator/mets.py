@@ -3,7 +3,7 @@
 
 from pathlib import Path
 from lxml import etree
-from .alto import Alto
+from alto import Alto
 
 
 class Mets:
@@ -26,6 +26,32 @@ class Mets:
         return self._xml
 
     @property
+    def date(self):
+        """Returns publication date.
+
+        Several encoding profiles were used in the DailyPrincetonian
+        project.  In one (the one used most), there is a single MODS
+        record for the entire issue, in a single mets:dmdSec, and the
+        date is at this xpath:
+        
+        //mods:mods/mods:part[@type='issue']/mods:date
+
+        In the second, less-used profile, there are multiple dmdSecs,
+        and the issue date can be found here:
+
+        //mets:dmdSec[@ID='MODSMD_ISSUE1']//mods:originInfo/mods:dateIssued
+
+        """
+        the_date = None
+        path = self.xml.xpath("//mods:date", namespaces=self.ns_map)
+        if not path:
+            path = self.xml.xpath("//mets:dmdSec[@ID='MODSMD_ISSUE1']//mods:originInfo/mods:dateIssued",
+                                  namespaces=self.ns_map)
+        if path:
+            the_date = path[0].text
+        return the_date
+
+    @property
     def articles(self):
         """Returns article divs from the METS document."""
         return self.xml.xpath(
@@ -46,8 +72,22 @@ class Mets:
                 namespaces=self.ns_map)
             for ele in file_elements:
                 key = ele.get("ID")
-                href = ele.xpath("mets:FLocat/@xlink:href",
-                                 namespaces=self.ns_map)[0]
+                # The dataset uses two namespaces for xlink:
+                # http://www.w3.org/1999/xlink and http://www.w3.org/TR/xlink.
+                # Try both.
+                try:
+                    href = ele.xpath("mets:FLocat/@xlink:href",
+                                     namespaces=self.ns_map)[0]
+                except:
+                    try:
+                        ns_map = {'mets': 'http://www.loc.gov/METS/',
+                                  'xlink': 'http://www.w3.org/TR/xlink'}
+                        href = ele.xpath("mets:FLocat/@xlink:href",
+                                         namespaces=ns_map)[0]
+                    except IndexError:
+                        raise IndexError("href not found")
+                    
+
                 _, subdir, fname = Path(href).parts
                 alto_path = self._path.parent / subdir / fname
                 self._alto_objects[key] = Alto(alto_path)
