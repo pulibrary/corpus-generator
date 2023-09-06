@@ -3,7 +3,7 @@
 
 from pathlib import Path
 from lxml import etree
-from alto import Alto
+from corpus_generator.alto import Alto
 
 
 class Mets:
@@ -33,7 +33,7 @@ class Mets:
         project.  In one (the one used most), there is a single MODS
         record for the entire issue, in a single mets:dmdSec, and the
         date is at this xpath:
-        
+
         //mods:mods/mods:part[@type='issue']/mods:date
 
         In the second, less-used profile, there are multiple dmdSecs,
@@ -86,7 +86,7 @@ class Mets:
                                          namespaces=ns_map)[0]
                     except IndexError:
                         raise IndexError("href not found")
-                    
+
 
                 _, subdir, fname = Path(href).parts
                 alto_path = self._path.parent / subdir / fname

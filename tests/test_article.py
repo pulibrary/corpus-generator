@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 
+import os
 from corpus_generator.issue import Issue, Article
 
-issue_path = "/Users/cwulfman/repos/github/pulibrary/corpus-generator/tests/data/06_01"
+issue_path = f"{os.path.dirname(__file__)}/data/06_01"
 
 article = Issue(issue_path).articles[0]
 

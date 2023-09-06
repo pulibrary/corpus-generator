@@ -10,7 +10,7 @@ they are named Princetonian_YYYY-MM-DD_vNN_nNNN_NNNN_ALTONNNN.xml."""
 from pathlib import Path
 import logging
 from sys import stdout
-from mets import Mets
+from corpus_generator.mets import Mets
 
 _logger = logging.getLogger(__name__)
 logformat = "[%(asctime)s] %(levelname)s:%(name)s:%(message)s"
